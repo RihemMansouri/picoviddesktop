@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/service/CommentServiceimp.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/controller/Comment_listController.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/service/Postserviceimpl.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/controller/HomeController.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/util/UserSession.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/iservice/Userservice.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/service/UserserviceImp.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/controller/Comments_itemController.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/controller/ItemController.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/controller/AddpostmodalController.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/service/SendEmail.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/controller/EditcommentController.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/controller/AddcommentmodalController.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/entity/Comments.java</file>
+            <file>file:/C:/Users/gaston/Documents/NetBeansProjects/Pidev_covid/src/com/esprit/util/dbconnect.java</file>
+        </group>
+    </open-files>
+</project-private>
